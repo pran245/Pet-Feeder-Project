@@ -1,1 +1,2 @@
 # Pet-Feeder-Project
+In this project, an automated Pet feeder system was built for a local animal shelter to feed its pets (cats and dogs). Firstly, the problem was analysed, then different Inputs & Outputs were identified and organised. An algorithm (Flowchart) was created to describe the flow of the system, Word coding was used to create a solution, and finally, some testings were done to check if the solution worked as intended.
